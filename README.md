@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justrunnz&label=Profile%20views&color=0e75b6&style=flat" alt="justrunnz" /> </p>
 
+- 🎓I'm currently studding at **Coding Factory**
+
 - 📫 How to reach me **ruigaspar03@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
