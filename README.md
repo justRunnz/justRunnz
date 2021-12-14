@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, welcome to my github profile</h2>
-<h3 align="center">My name is Rui Gaspar(justRunnz) and i'am passionate developer from Paris</h3>
+<h2 align="center">Hi 👋, welcome to my github profile<br>My name is Rui Gaspar(justRunnz) and i'am passionate developer from Paris</h2>
 
 - 🎓I'm currently studding at **[Coding Factory by ESIEE Tech - Cergy]**(https://codingfactory.fr/)
 
