@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justRunnz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=justRunnz)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=justRunnz&theme=tokyonight)
