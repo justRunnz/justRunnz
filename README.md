@@ -20,6 +20,7 @@
 
 
 <h3 align="left">My stats📊 :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrunnz&show_icons=true&locale=en&layout=compact" alt="justrunnz" margin-bottom = "20"/></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrunnz&show_icons=true&locale=en&layout=compact" alt="justrunnz"/></p>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrunnz&show_icons=true&locale=en" alt="justrunnz" /></p>
