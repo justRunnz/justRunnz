@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rui Gaspar</h1>
-<h3 align="center">A passionate frontend developer from Paris</h3>
+<h3 align="center">A passionate developer from Paris</h3>
 
 - 🎓I'm currently studding at **Coding Factory**
 
@@ -10,9 +10,9 @@
 
 ## 📸 My socials medias
 
-- 🌐 [instagram](https://www.instagram.com/rui.miguel_/)
-- 📝 [linkedin](https://www.linkedin.com/in/rui-gaspar-030109215/)
-- ![](https://komarev.com/ghpvc/?username=justrunnz&label=Profile%20views&color=0e75b6&style=flat)
+- 🌐 [Instagram](https://www.instagram.com/rui.miguel_/)
+- 📝 [Linkedin](https://www.linkedin.com/in/rui-gaspar-030109215/)
+- 👀 ![](https://komarev.com/ghpvc/?username=justrunnz&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 My stats
 
