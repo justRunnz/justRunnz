@@ -15,5 +15,8 @@
 - ![](https://komarev.com/ghpvc/?username=justrunnz&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 My stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=justRunnz&count_private=true&theme=tokyonight&showicons=true)]()
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justrunnz&show_icons=true&locale=en&layout=compact" alt="justrunnz"/></p>
+<br>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrunnz&show_icons=true&locale=en" alt="justrunnz" /></p>
