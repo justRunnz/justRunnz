@@ -18,6 +18,3 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=justrunnz&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![GitHub stat's](https://github-readme-stats.vercel.app/api?username=justRunnz)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrunnz&show_icons=true&locale=en" alt="justrunnz" /></p>
