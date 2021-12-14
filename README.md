@@ -10,7 +10,7 @@
 
 - 🌐 [Instagram](https://www.instagram.com/rui.miguel_/)
 - 📝 [Linkedin](https://www.linkedin.com/in/rui-gaspar-030109215/)
-- 📫 [Mail] **ruigaspar03@hotmail.com**
+- 📫 **ruigaspar03@hotmail.com**
 - 👀 ![](https://komarev.com/ghpvc/?username=justrunnz&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📊 My stats
