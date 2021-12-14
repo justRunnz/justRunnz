@@ -2,6 +2,7 @@
 
 - 🎓I'm currently studding at **[Coding Factory by ESIEE Tech - Cergy](https://codingfactory.fr/)**
 
+- 💻 Languages : Python, HTML, CSS, Java, JavaScript, JavaFx, Git
 
 - 🗣 My main language is French and Portuguese but I also know a little English and Spanish.
 
